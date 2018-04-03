@@ -1,0 +1,4 @@
+error.texturenotfound_chestplate_____Texture not found-Chestplate_____lootplusplus:error.texturenotfound_material_____lootplusplus:error.texturenotfound_layer_1
+error.missingtexture_chestplate_____Missing Texture-Chestplate_____lootplusplus:error.missingtexture_material_____lootplusplus:error.missingtexture_layer_1
+error.glitch_chestplate_____§k§0-§1-§2-§3-§4-§5-§6-§7-§8-§9-§a-§b-§c-§d-§e-§r-Chestplate_____lootplusplus:error.glitch_material_____lootplusplus:error.glitch_layer_1
+error.luckyerror_chestplate_____§cLucky Error Chestplate_____lootplusplus:error.luckyerror_material_____lootplusplus:error.luckyerror_layer_1

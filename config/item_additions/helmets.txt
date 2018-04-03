@@ -1,0 +1,4 @@
+error.texturenotfound_helmet_____Texture not found-Helmet_____lootplusplus:error.texturenotfound_material_____lootplusplus:error.texturenotfound_layer_1
+error.missingtexture_helmet_____Missing Texture-Helmet_____lootplusplus:error.missingtexture_material_____lootplusplus:error.missingtexture_layer_1
+error.glitch_helmet_____§k§0-§1-§2-§3-§4-§5-§6-§7-§8-§9-§a-§b-§c-§d-§e-§r-Helmet_____lootplusplus:error.glitch_material_____lootplusplus:error.glitch_layer_1
+error.luckyerror_helmet_____§cLucky Error Helmet_____lootplusplus:error.luckyerror_material_____lootplusplus:error.luckyerror_layer_1

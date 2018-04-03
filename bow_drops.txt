@@ -1,0 +1,9 @@
+/ TNT
+type=entity,ID=LuckyProjectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=tnt),trail=(frequency=0.2,drops=["type=particle,ID=smoke,posY=#bExactPosY+0.4)"]),impact=["group(type=difficulty,ID=hard;type=explosion,damage=4)"])@luck=2
+
+/ Arrow
+type=entity,ID=Arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion)@chance=2
+
+/ :D
+type=entity,ID=LuckyProjectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=nether_star),trail=(frequency=0.2,drops=["type=particle,ID=happyVillager,posY=#bExactPosY+0.4)"]),impact=["group(type=difficulty,ID=hard;type=explosion,damage=20)"])@luck=2@chance=0.1
+

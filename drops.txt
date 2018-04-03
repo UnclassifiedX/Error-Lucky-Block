@@ -1,0 +1,1231 @@
+﻿/ === 1.0 ===
+
+/ --- Items ---
+
+/ missing texture items
+ID=lootplusplus:error.missingtexture_sword,NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d"))@luck=2
+ID=lootplusplus:error.missingtexture_axe,NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5A$0x$5e"))@luck=1@chance=0.5
+ID=lootplusplus:error.missingtexture_pickaxe,NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5P$0i$5c$0k$5a$0x$5e"))@luck=1@chance=0.5
+ID=lootplusplus:error.missingtexture_shovel,NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0h$5o$0v$5e$0l"))@luck=1@chance=0.5
+ID=lootplusplus:error.missingtexture_hoe,NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0o$5e"))@luck=1@chance=0.5
+ID=lootplusplus:error.missingtexture_material,amount=#rand(2,32),NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5M$0a$5t$0e$5r$0i$5a$0l"))@luck=1@chance=0.2
+ID=lootplusplus:error.missingtexture_block,amount=#rand(1,10),NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0l$5o$0c$5k"))@luck=1@chance=0.2
+ID=lootplusplus:error.missingtexture_helmet,NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t"))@luck=2
+ID=lootplusplus:error.missingtexture_chestplate,NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e"))@luck=2
+ID=lootplusplus:error.missingtexture_leggings,NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s"))@luck=2
+ID=lootplusplus:error.missingtexture_boots,NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s"))@luck=2
+
+/texture not found items
+ID=lootplusplus:error.texturenotfound_sword@luck=2
+ID=lootplusplus:error.texturenotfound_axe@luck=1@chance=0.5
+ID=lootplusplus:error.texturenotfound_pickaxe@luck=1@chance=0.5
+ID=lootplusplus:error.texturenotfound_shovel@luck=1@chance=0.5
+ID=lootplusplus:error.texturenotfound_hoe@luck=1@chance=0.5
+ID=lootplusplus:error.texturenotfound_material,amount=#rand(2,32)@luck=1@chance=0.2
+ID=lootplusplus:error.texturenotfound_block,amount=#rand(1,10)@luck=1@chance=0.2
+ID=lootplusplus:error.texturenotfound_helmet@luck=1
+ID=lootplusplus:error.texturenotfound_chestplate@luck=1
+ID=lootplusplus:error.texturenotfound_leggings@luck=1
+ID=lootplusplus:error.texturenotfound_boots@luck=1
+
+/glitch items
+ID=lootplusplus:error.glitch_sword,NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad"))@luck=2
+ID=lootplusplus:error.glitch_axe,NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6A$7x$8e"))@luck=1@chance=0.5
+ID=lootplusplus:error.glitch_pickaxe,NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6P$7i$8c$9k$aa$bx$ce"))@luck=1@chance=0.5
+ID=lootplusplus:error.glitch_shovel,NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7h$8o$9v$ae$bl"))@luck=1@chance=0.5
+ID=lootplusplus:error.glitch_hoe,NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6H$7o$8e"))@luck=1@chance=0.5
+ID=lootplusplus:error.glitch_material,amount=#rand(2,32),NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6M$7a$8t$9e$ar$bi$ca$dl"))@luck=1@chance=0.2
+ID=lootplusplus:error.glitch_block,amount=#rand(1,10),NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6B$7l$8o$9c$ak"))@luck=1@chance=0.2
+ID=lootplusplus:error.glitch_helmet,NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt"))@luck=1
+ID=lootplusplus:error.glitch_chestplate,NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe"))@luck=1
+ID=lootplusplus:error.glitch_leggings,NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds"))@luck=1
+ID=lootplusplus:error.glitch_boots,NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as"))@luck=1
+
+/lucky items
+ID=lucky:lucky_block_error@luck=1@chance=1
+ID=lucky:error_lucky_sword@luck=1@chance=1
+ID=lucky:error_lucky_bow@luck=1@chance=1
+ID=lucky:error_lucky_potion,amount=5@luck=1@chance=1
+
+ID=lootplusplus:error.luckyerror_material,amount=5@luck=1@chance=1
+ID=lootplusplus:error.luckyerror_helmet@luck=1@chance=1
+ID=lootplusplus:error.luckyerror_chestplate@luck=1@chance=1
+ID=lootplusplus:error.luckyerror_leggings@luck=1@chance=1
+ID=lootplusplus:error.luckyerror_boots@luck=1@chance=1
+
+/arrows
+ID=minecraft:arrow,amount=#rand(1,64)@luck=1@chance=1.5
+
+/ book of rarity
+type=structure,ID=BookOfRariy@luck=1@chance=0.1
+
+/ swords in different raritys
+/ broken
+ID=lootplusplus:error.glitch_sword,NBTTag=(AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=12,Operation=0,UUIDMost=404,UUIDLeast=505)],display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad$r $0($8Br$7o$8k$7e$8n$0)"))@luck=1@chance=0.3
+ID=lootplusplus:error.texturenotfound_sword,NBTTag=(AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=10,Operation=0,UUIDMost=404,UUIDLeast=505)],display=(Name="Texture not found-Sword $0($8Br$7o$8k$7e$8n$0)"))@luck=1@chance=0.3
+ID=lootplusplus:error.missingtexture_sword,NBTTag=(AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=8,Operation=0,UUIDMost=404,UUIDLeast=505)],display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d $0($8Br$7o$8k$7e$8n$0)"))@luck=1@chance=0.3
+ID=lucky:error_lucky_sword,NBTTag=(AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=4,Operation=0,UUIDMost=404,UUIDLeast=505)],display=(Name="Error Lucky Sword $0($8Br$7o$8k$7e$8n$0)"))@luck=1@chance=0.3
+/ rusty
+ID=lootplusplus:error.glitch_sword,NBTTag=(AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=13,Operation=0,UUIDMost=404,UUIDLeast=505)],display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad$r $0($7R$4u$cs$7ty$0)"))@luck=1@chance=0.5
+ID=lootplusplus:error.texturenotfound_sword,NBTTag=(AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=11,Operation=0,UUIDMost=404,UUIDLeast=505)],display=(Name="Texture not found-Sword $0($7R$4u$cs$7ty$0)"))@luck=1@chance=0.5
+ID=lootplusplus:error.missingtexture_sword,NBTTag=(AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=9,Operation=0,UUIDMost=404,UUIDLeast=505)],display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d $0($7R$4u$cs$7ty$0)"))@luck=1@chance=0.5
+ID=lucky:error_lucky_sword,NBTTag=(AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=5,Operation=0,UUIDMost=404,UUIDLeast=505)],display=(Name="Error Lucky Sword $0($7R$4u$cs$7ty$0)"))@luck=1@chance=0.5
+/ old
+ID=lootplusplus:error.glitch_sword,NBTTag=(AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=13.5,Operation=0,UUIDMost=404,UUIDLeast=505)],display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad$r $0($7Old$0)"))@luck=1@chance=0.7
+ID=lootplusplus:error.texturenotfound_sword,NBTTag=(AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=11.5,Operation=0,UUIDMost=404,UUIDLeast=505)],display=(Name="Texture not found-Sword $0($7Old$0)"))@luck=1@chance=0.7
+ID=lootplusplus:error.missingtexture_sword,NBTTag=(AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=9.5,Operation=0,UUIDMost=404,UUIDLeast=505)],display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d $0($7Old$0))"))@luck=1@chance=0.7
+ID=lucky:error_lucky_sword,NBTTag=(AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=5.5,Operation=0,UUIDMost=404,UUIDLeast=505)],display=(Name="Error Lucky Sword $0($7Old$0)"))@luck=1@chance=0.7
+/ good
+ID=lootplusplus:error.glitch_sword,NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad$r $0(Good)"),ench=[(id=#randList(17,18,19,21,34),lvl=1)])@luck=2@chance=0.9
+ID=lootplusplus:error.texturenotfound_sword,NBTTag=(display=(Name="Texture not found-Sword $0(Good)"),ench=[(id=#randList(17,18,19,21,34),lvl=1)])@luck=2@chance=0.9
+ID=lootplusplus:error.missingtexture_sword,NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d $0(Good)"),ench=[(id=#randList(17,18,19,21,34),lvl=1)])@luck=2@chance=0.9
+ID=lucky:error_lucky_sword,NBTTag=(display=(Name="Error Lucky Sword $0(Good)"),ench=[(id=#randList(17,18,19,21,34),lvl=1)])@luck=2@chance=0.9
+/ rare
+ID=lootplusplus:error.glitch_sword,NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad$r $0($2Rare$0)"),ench=[(id=#randList(17,18,19,21,34),lvl=2),(id=#randList(16,20),lvl=1)])@luck=2@chance=0.8
+ID=lootplusplus:error.texturenotfound_sword,NBTTag=(display=(Name="Texture not found-Sword $0($2Rare$0)"),ench=[(id=#randList(17,18,19,21,34),lvl=2),(id=#randList(16,20),lvl=1)])@luck=2@chance=0.8
+ID=lootplusplus:error.missingtexture_sword,NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d $0($2Rare$0)"),ench=[(id=#randList(17,18,19,21,34),lvl=2),(id=#randList(16,20),lvl=1)])@luck=2@chance=0.8
+ID=lucky:error_lucky_sword,NBTTag=(display=(Name="Error Lucky Sword $0($2Rare$0)"),ench=[(id=#randList(17,18,19,21,34),lvl=2),(id=#randList(16,20),lvl=1)])@luck=2@chance=0.8
+/ magic
+ID=lootplusplus:error.glitch_sword,NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad$r $0($1Magic$0)"),ench=[(id=16,lvl=#randList(1,2)),(id=17,lvl=#randList(1,2)),(id=18,lvl=#randList(1,2)),(id=19,lvl=#randList(1,2)),(id=20,lvl=#randList(1,2)),(id=21,lvl=#randList(1,2)),(id=34,lvl=#randList(1,2))])@luck=2@chance=0.7
+ID=lootplusplus:error.texturenotfound_sword,NBTTag=(display=(Name="Texture not found-Sword $0($1Magic$0)"),ench=[(id=16,lvl=#randList(1,2)),(id=17,lvl=#randList(1,2)),(id=18,lvl=#randList(1,2)),(id=19,lvl=#randList(1,2)),(id=20,lvl=#randList(1,2)),(id=21,lvl=#randList(1,2)),(id=34,lvl=#randList(1,2))])@luck=2@chance=0.7
+ID=lootplusplus:error.missingtexture_sword,NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d $0($1Magic$0)"),ench=[(id=16,lvl=#randList(1,2)),(id=17,lvl=#randList(1,2)),(id=18,lvl=#randList(1,2)),(id=19,lvl=#randList(1,2)),(id=20,lvl=#randList(1,2)),(id=21,lvl=#randList(1,2)),(id=34,lvl=#randList(1,2))])@luck=2@chance=0.7
+ID=lucky:error_lucky_sword,NBTTag=(display=(Name="Error Lucky Sword $0($1Magic$0)"),ench=[(id=16,lvl=#randList(1,2)),(id=17,lvl=#randList(1,2)),(id=18,lvl=#randList(1,2)),(id=19,lvl=#randList(1,2)),(id=20,lvl=#randList(1,2)),(id=21,lvl=#randList(1,2)),(id=34,lvl=#randList(1,2))])@luck=2@chance=0.7
+/ epic
+ID=lootplusplus:error.glitch_sword,NBTTag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad$r $0($5Epic$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)])@luck=2@chance=0.6
+ID=lootplusplus:error.texturenotfound_sword,NBTTag=(display=(Name="Texture not found-Sword $0($5Epic$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)])@luck=2@chance=0.6
+ID=lootplusplus:error.missingtexture_sword,NBTTag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d $0($5Epic$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)])@luck=2@chance=0.6
+ID=lucky:error_lucky_sword,NBTTag=(display=(Name="Error Lucky Sword $0($5Epic$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)])@luck=2@chance=0.6
+/ ultimate
+ID=lootplusplus:error.glitch_sword,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad$r $0($eUltimate$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=20.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=6,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101)])@luck=2@chance=0.5
+ID=lootplusplus:error.texturenotfound_sword,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Sword $0($eUltimate$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=18.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=6,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101)])@luck=2@chance=0.5
+ID=lootplusplus:error.missingtexture_sword,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d $0($eUltimate$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=16.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=6,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101)])@luck=2@chance=0.5
+ID=lucky:error_lucky_sword,NBTTag=(Unbreakable=1,display=(Name="Error Lucky Sword $0($eUltimate$0))"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=12.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=6,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101)])@luck=2@chance=0.5
+/ legendary
+ID=lootplusplus:error.glitch_sword,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad$r $0($6Legendary$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=20.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=10,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101),(AttributeName="potioncore.reach",Name="potioncore.reach",Amount=0.5,Operation=0,UUIDMost=12,UUIDLeast=13)])@luck=2@chance=0.4
+ID=lootplusplus:error.texturenotfound_sword,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Sword $0($6Legendary$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=18.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=10,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101),(AttributeName="potioncore.reach",Name="potioncore.reach",Amount=0.5,Operation=0,UUIDMost=12,UUIDLeast=13)])@luck=2@chance=0.4
+ID=lootplusplus:error.missingtexture_sword,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d $0($6Legendary$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=16.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=10,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101),(AttributeName="potioncore.reach",Name="potioncore.reach",Amount=0.5,Operation=0,UUIDMost=12,UUIDLeast=13)])@luck=2@chance=0.4
+ID=lucky:error_lucky_sword,NBTTag=(Unbreakable=1,display=(Name="Error Lucky Sword $0($6Legendary$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=12.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=10,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101),(AttributeName="potioncore.reach",Name="potioncore.reach",Amount=0.5,Operation=0,UUIDMost=12,UUIDLeast=13)])@luck=2@chance=0.4
+/ unique
+ID=lootplusplus:error.glitch_sword,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad$r $0($e~$6$lUnique$r$e~$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=20.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101),(AttributeName="potioncore.reach",Name="potioncore.reach",Amount=0.5,Operation=0,UUIDMost=12,UUIDLeast=13),(AttributeName="potioncore.magicShielding",Name="potioncore.magicShielding",Amount=2,Operation=0,UUIDMost=1212,UUIDLeast=1313),(AttributeName="potioncore.magicDamage",Name="potioncore.magicDamage",Amount=3,Operation=0,UUIDMost=121212,UUIDLeast=131313)])@luck=2@chance=0.3
+ID=lootplusplus:error.texturenotfound_sword,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Sword $0($e~$6$lUnique$r$e~$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=18.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101),(AttributeName="potioncore.reach",Name="potioncore.reach",Amount=0.5,Operation=0,UUIDMost=12,UUIDLeast=13),(AttributeName="potioncore.magicShielding",Name="potioncore.magicShielding",Amount=2,Operation=0,UUIDMost=1212,UUIDLeast=1313),(AttributeName="potioncore.magicDamage",Name="potioncore.magicDamage",Amount=3,Operation=0,UUIDMost=121212,UUIDLeast=131313)])@luck=2@chance=0.3
+ID=lootplusplus:error.missingtexture_sword,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d $0($e~$6$lUnique$r$e~$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=16.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101),(AttributeName="potioncore.reach",Name="potioncore.reach",Amount=0.5,Operation=0,UUIDMost=12,UUIDLeast=13),(AttributeName="potioncore.magicShielding",Name="potioncore.magicShielding",Amount=2,Operation=0,UUIDMost=1212,UUIDLeast=1313),(AttributeName="potioncore.magicDamage",Name="potioncore.magicDamage",Amount=3,Operation=0,UUIDMost=121212,UUIDLeast=131313)])@luck=2@chance=0.3
+ID=lucky:error_lucky_sword,NBTTag=(Unbreakable=1,display=(Name="Error Lucky Sword $0($e~$6$lUnique$r$e~$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=12.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101),(AttributeName="potioncore.reach",Name="potioncore.reach",Amount=0.5,Operation=0,UUIDMost=12,UUIDLeast=13),(AttributeName="potioncore.magicShielding",Name="potioncore.magicShielding",Amount=2,Operation=0,UUIDMost=1212,UUIDLeast=1313),(AttributeName="potioncore.magicDamage",Name="potioncore.magicDamage",Amount=3,Operation=0,UUIDMost=121212,UUIDLeast=131313)])@luck=2@chance=0.3
+
+/ armor in different raritys
+/ Soul-strengthening
+group(ID=lootplusplus:error.texturenotfound_helmet,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Helmet $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=44389,UUIDLeast=145354)]);ID=lootplusplus:error.texturenotfound_chestplate,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Chestplate $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5600,UUIDLeast=5700)]);ID=lootplusplus:error.texturenotfound_leggings,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Leggings $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5601,UUIDLeast=5701)]);ID=lootplusplus:error.texturenotfound_boots,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Boots $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5602,UUIDLeast=5702)]))@lucky=2@chance=0.5
+group(ID=lootplusplus:error.missingtexture_helmet,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=44389,UUIDLeast=145354)]);ID=lootplusplus:error.missingtexture_chestplate,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5600,UUIDLeast=5700)]);ID=lootplusplus:error.missingtexture_leggings,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5601,UUIDLeast=5701)]);ID=lootplusplus:error.missingtexture_boots,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5602,UUIDLeast=5702)]))@lucky=2@chance=0.5
+group(ID=lootplusplus:error.glitch_helmet,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=44389,UUIDLeast=145354)]);ID=lootplusplus:error.glitch_chestplate,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5600,UUIDLeast=5700)]);ID=lootplusplus:error.glitch_leggings,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5601,UUIDLeast=5701)]);ID=lootplusplus:error.glitch_boots,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5602,UUIDLeast=5702)]))@lucky=2@chance=0.5
+group(ID=lootplusplus:error.luckyerror_helmet,NBTTag=(Unbreakable=1,display=(Name="$cLucky error Helmet $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=44389,UUIDLeast=145354)]);ID=lootplusplus:error.luckyerror_chestplate,NBTTag=(Unbreakable=1,display=(Name="$cLucky error Chestplate $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5600,UUIDLeast=5700)]);ID=lootplusplus:error.luckyerror_leggings,NBTTag=(Unbreakable=1,display=(Name="$cLucky error Leggings $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5601,UUIDLeast=5701)]);ID=lootplusplus:error.luckyerror_boots,NBTTag=(Unbreakable=1,display=(Name="$cLucky error Boots $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5602,UUIDLeast=5702)]))@lucky=2@chance=0.5
+
+/ Unbreakable
+group(ID=lootplusplus:error.texturenotfound_helmet,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Helmet $0($r$0$lUnbreakable$r$0)"));ID=lootplusplus:error.texturenotfound_chestplate,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Chestplate $0($r$0$lUnbreakable$r$0)"));ID=lootplusplus:error.texturenotfound_leggings,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Leggings $0($r$0$lUnbreakable$r$0)"));ID=lootplusplus:error.texturenotfound_boots,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Boots $0($r$0$lUnbreakable$r$0)")))@lucky=2@chance=0.5
+group(ID=lootplusplus:error.missingtexture_helmet,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t $0($r$0$lUnbreakable$r$0)"));ID=lootplusplus:error.missingtexture_chestplate,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e $0($r$0$lUnbreakable$r$0)"));ID=lootplusplus:error.missingtexture_leggings,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s $0($r$0$lUnbreakable$r$0)"));ID=lootplusplus:error.missingtexture_boots,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s $0($r$0$lUnbreakable$r$0)")))@lucky=2@chance=0.5
+group(ID=lootplusplus:error.glitch_helmet,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt $0($r$0$lUnbreakable$r$0)"));ID=lootplusplus:error.glitch_chestplate,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe $0($r$0$lUnbreakable$r$0)"));ID=lootplusplus:error.glitch_leggings,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds $0($r$0$lUnbreakable$r$0)"));ID=lootplusplus:error.glitch_boots,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as $0($r$0$lUnbreakable$r$0)")))@lucky=2@chance=0.5
+group(ID=lootplusplus:error.luckyerror_helmet,NBTTag=(Unbreakable=1,display=(Name="$cLucky error Helmet $0($r$0$lUnbreakable$r$0)"));ID=lootplusplus:error.luckyerror_chestplate,NBTTag=(Unbreakable=1,display=(Name="$cLucky error Chestplate $0($r$0$lUnbreakable$r$0)"));ID=lootplusplus:error.luckyerror_leggings,NBTTag=(Unbreakable=1,display=(Name="$cLucky error Leggings $0($r$0$lUnbreakable$r$0)"));ID=lootplusplus:error.luckyerror_boots,NBTTag=(Unbreakable=1,display=(Name="$cLucky error Boots $0($r$0$lUnbreakable$r$0)")))@lucky=2@chance=0.5
+
+/ --- Mobs ---
+
+/ -- Enemys --
+
+/ - Normal -
+
+/ ~~missing texture mobs~~
+
+/ ~Zombies~
+/ sword
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_sword,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0Z$5o$0m$5b$0i$5e,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ axe
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_axe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5A$0x$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0Z$5o$0m$5b$0i$5e,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ pickaxe
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_pickaxe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5P$0i$5c$0rk$5a$0x$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0Z$5o$0m$5b$0i$5e,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ shovel
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_shovel,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0h$5o$0v$5e$0l))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0Z$5o$0m$5b$0i$5e,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ hoe
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_hoe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0o$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0Z$5o$0m$5b$0i$5e,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+
+/ ~Skeletons~
+/ sword
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_sword,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0S$5k$0e$5l$0e$5t$0o$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ axe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_axe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5A$0x$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0S$5k$0e$5l$0e$5t$0o$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ pickaxe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_pickaxe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5P$0i$5c$0rk$5a$0x$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0S$5k$0e$5l$0e$5t$0o$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ shovel
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_shovel,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0h$5o$0v$5e$0l))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0S$5k$0e$5l$0e$5t$0o$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ hoe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_hoe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0o$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0S$5k$0e$5l$0e$5t$0o$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+
+/ ~WitherSkeletons~
+/ sword
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_sword,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0W$5i$0t$5h$0e$5r $0S$5k$0e$5l$0e$5t$0o$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+/ axe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_axe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5A$0x$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0W$5i$0t$5h$0e$5r $0S$5k$0e$5l$0e$5t$0o$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+/ pickaxe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_pickaxe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5P$0i$5c$0rk$5a$0x$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0W$5i$0t$5h$0e$5r $0S$5k$0e$5l$0e$5t$0o$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+/ shovel
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_shovel,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0h$5o$0v$5e$0l))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0W$5i$0t$5h$0e$5r $0S$5k$0e$5l$0e$5t$0o$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+/ hoe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_hoe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0o$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0W$5i$0t$5h$0e$5r $0S$5k$0e$5l$0e$5t$0o$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+
+/ ~ZombiePigmans~
+/ sword
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_sword,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0Z$5o$0m$5b$0i$5e $0P$5i$0g$5m$0a$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ axe
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_axe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5A$0x$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0Z$5o$0m$5b$0i$5e $0P$5i$0g$5m$0a$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ pickaxe
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_pickaxe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5P$0i$5c$0rk$5a$0x$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0Z$5o$0m$5b$0i$5e $0P$5i$0g$5m$0a$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ shovel
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_shovel,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0h$5o$0v$5e$0l))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0Z$5o$0m$5b$0i$5e $0P$5i$0g$5m$0a$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ hoe
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_hoe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0o$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0Z$5o$0m$5b$0i$5e $0P$5i$0g$5m$0a$5n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+
+/ ~Giants~
+/ sword
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_sword,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0G$5i$0a$5n$0t,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+/ axe
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_axe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5A$0x$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0G$5i$0a$5n$0t,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+/ pickaxe
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_pickaxe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5P$0i$5c$0rk$5a$0x$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $$0G$5i$0a$5n$0t,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+/ shovel
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_shovel,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0h$5o$0v$5e$0l))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0G$5i$0a$5n$0t,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+/ hoe
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_hoe,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0o$5e))),(Count=1,id=lootplusplus:error.missingtexture_boots,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s))),(Count=1,id=lootplusplus:error.missingtexture_leggings,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s))),(Count=1,id=lootplusplus:error.missingtexture_chestplate,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e))),(Count=1,id=lootplusplus:error.missingtexture_helmet,tag=(display=(Name=$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t)))],CustomName=$0M$5i$0s$5s$0i$5n$0g $5T$0e$5x$0t$5u$0r$5e $0G$5i$0a$5n$0t,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+
+/ ~~texture not found mobs~~
+/ ~Zombies~
+/ sword
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_sword),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Zombie,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ axe
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_axe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Zombie,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ pickaxe
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_pickaxe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Zombie,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ shovel
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_shovel),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Zombie,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ hoe
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_hoe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Zombie,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+
+/ ~Skeletons~
+/ sword
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_sword),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Skeleton,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ axe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_axe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Skeleton,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ pickaxe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_pickaxe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Skeleton,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ shovel
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_shovel),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Skeleton,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ hoe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_hoe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Skeleton,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+
+/ ~WitherSkeletons~
+/ sword
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_sword),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Wither Skeleton,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+/ axe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_axe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Wither Skeleton,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+/ pickaxe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_pickaxe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Wither Skeleton,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+/ shovel
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_shovel),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Wither Skeleton,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+/ hoe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_hoe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Wither Skeleton,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+
+/ ~ZombiePigmans~
+/ sword
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_sword),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Zombie Pigman,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ axe
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_axe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Zombie Pigman,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ pickaxe
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_pickaxe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Zombie Pigman,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ shovel
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_shovel),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Zombie Pigman,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ hoe
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_hoe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Zombie Pigman,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+
+/ ~Giants~
+/ sword
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_sword),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Giant,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+/ axe
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_axe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Giant,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+/ pickaxe
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_pickaxe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Giant,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+/ shovel
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_shovel),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Giant,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+/ hoe
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_hoe),(Count=1,id=lootplusplus:error.texturenotfound_boots),(Count=1,id=lootplusplus:error.texturenotfound_leggings),(Count=1,id=lootplusplus:error.texturenotfound_chestplate),(Count=1,id=lootplusplus:error.texturenotfound_helmet)],CustomName=Texture not found-Giant,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+
+/ ~~glitch mobs~~
+/ ~Zombies~
+/ sword
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_sword,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6Z$7o$8m$9b$ai$be,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ axe
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_axe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6A$7x$8e))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6Z$7o$8m$9b$ai$be,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ pickaxe
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_pickaxe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6P$7i$8c$9k$aa$bx$ce))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6Z$7o$8m$9b$ai$be,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ shovel
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_shovel,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6S$7h$8o$9v$ae$bl))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6Z$7o$8m$9b$ai$be,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ hoe
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_hoe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7o$8e))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6Z$7o$8m$9b$ai$be,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+
+/ ~Skeletons~
+/ sword
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_sword,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6S$7k$8e$9l$ae$bt$co$dn,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ axe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_axe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6A$7x$8e))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6S$7k$8e$9l$ae$bt$co$dn,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ pickaxe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_pickaxe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6P$7i$8c$9k$aa$bx$ce))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6S$7k$8e$9l$ae$bt$co$dn,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ shovel
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_shovel,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6S$7h$8o$9v$ae$bl))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6S$7k$8e$9l$ae$bt$co$dn,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ hoe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_hoe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7o$8e))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6S$7k$8e$9l$ae$bt$co$dn,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+
+/ ~WitherSkeletons~
+/ sword
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_sword,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6W$7i$8t$9h$ae$br $cS$dk$ee$fl$1e$2t$3o$4n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+/ axe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_axe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6A$7x$8e))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6W$7i$8t$9h$ae$br $cS$dk$ee$fl$1e$2t$3o$4n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+/ pickaxe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_pickaxe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6P$7i$8c$9k$aa$bx$ce))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6W$7i$8t$9h$ae$br $cS$dk$ee$fl$1e$2t$3o$4n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+/ shovel
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_shovel,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6S$7h$8o$9v$ae$bl))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6W$7i$8t$9h$ae$br $cS$dk$ee$fl$1e$2t$3o$4n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+/ hoe
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_hoe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7o$8e))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6W$7i$8t$9h$ae$br $cS$dk$ee$fl$1e$2t$3o$4n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+
+/ ~ZombiePigmans~
+/ sword
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_sword,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6Z$7o$8m$9b$ai$be $eP$fi$1g$2m$3a$4n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ axe
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_axe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6A$7x$8e))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6Z$7o$8m$9b$ai$be $eP$fi$1g$2m$3a$4n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ pickaxe
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_pickaxe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6P$7i$8c$9k$aa$bx$ce))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6Z$7o$8m$9b$ai$be $eP$fi$1g$2m$3a$4n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ shovel
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_shovel,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6S$7h$8o$9v$ae$bl))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6Z$7o$8m$9b$ai$be $eP$fi$1g$2m$3a$4n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+/ hoe
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_hoe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7o$8e))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6Z$7o$8m$9b$ai$be $eP$fi$1g$2m$3a$4n,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+
+/ ~Giants~
+/ sword
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_sword,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6G$7i$8a$9n$at,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+/ axe
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_axe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6A$7x$8e))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6G$7i$8a$9n$at,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+/ pickaxe
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_pickaxe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6P$7i$8c$9k$aa$bx$ce))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6G$7i$8a$9n$at,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+/ shovel
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_shovel,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6S$7h$8o$9v$ae$bl))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $6G$7i$8a$9n$at,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+/ hoe
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_hoe,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7o$8e))),(Count=1,id=lootplusplus:error.glitch_boots,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as))),(Count=1,id=lootplusplus:error.glitch_leggings,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds))),(Count=1,id=lootplusplus:error.glitch_chestplate,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe))),(Count=1,id=lootplusplus:error.glitch_helmet,tag=(display=(Name=$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt)))],CustomName=$k$1G$2l$3i$4t$5c$0h $$6G$7i$8a$9n$at,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+
+/ ~~lucky error mobs~~
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lucky:error_lucky_sword),(Count=1,id=lootplusplus:error.luckyerror_boots),(Count=1,id=lootplusplus:error.luckyerror_leggings),(Count=1,id=lootplusplus:error.luckyerror_chestplate),(Count=1,id=lootplusplus:error.luckyerror_helmet)],CustomName=$4Error Zombie,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lucky:error_lucky_sword),(Count=1,id=lootplusplus:error.luckyerror_boots),(Count=1,id=lootplusplus:error.luckyerror_leggings),(Count=1,id=lootplusplus:error.luckyerror_chestplate),(Count=1,id=lootplusplus:error.luckyerror_helmet)],CustomName=$4Error Skeleton,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+type=entity,ID=Skeleton,NBTTag=(Equipment=[(Count=1,id=lucky:error_lucky_sword),(Count=1,id=lootplusplus:error.luckyerror_boots),(Count=1,id=lootplusplus:error.luckyerror_leggings),(Count=1,id=lootplusplus:error.luckyerror_chestplate),(Count=1,id=lootplusplus:error.luckyerror_helmet)],CustomName=$4Error Wither Skeleton,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F],SkeletonType=1)@luck=-1@chance=0.2
+type=entity,ID=PigZombie,NBTTag=(Equipment=[(Count=1,id=lucky:error_lucky_sword),(Count=1,id=lootplusplus:error.luckyerror_boots),(Count=1,id=lootplusplus:error.luckyerror_leggings),(Count=1,id=lootplusplus:error.luckyerror_chestplate),(Count=1,id=lootplusplus:error.luckyerror_helmet)],CustomName=$4Error Zombie Pigman,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.2
+type=entity,ID=Giant,NBTTag=(Equipment=[(Count=1,id=lucky:error_lucky_sword),(Count=1,id=lootplusplus:error.luckyerror_boots),(Count=1,id=lootplusplus:error.luckyerror_leggings),(Count=1,id=lootplusplus:error.luckyerror_chestplate),(Count=1,id=lootplusplus:error.luckyerror_helmet)],CustomName=$4Error Giant,CustomNameVisible=1,DropChances=[0.4F,0.4F,0.4F,0.4F,0.4F])@luck=-1@chance=0.1
+
+/ - Boss -
+
+/ The missing Texture
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.missingtexture_sword,tag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d $0($eUltimate$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=16.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=6,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101)])),(Count=1,ID=lootplusplus:error.missingtexture_boots,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5602,UUIDLeast=5702)])),(Count=1,ID=lootplusplus:error.missingtexture_leggings,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5601,UUIDLeast=5701)])),(Count=1,ID=lootplusplus:error.missingtexture_chestplate,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5600,UUIDLeast=5700)])),(Count=1,ID=lootplusplus:error.missingtexture_helmet,NBTTag=(Unbreakable=1,display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=44389,UUIDLeast=145354)]))],CustomName=$0T$5h$0e $5M$0i$5s$0s$5i$0n$5g $0T$5e$0x$5t$0u$5r$0e,CustomNameVisible=1,Attributes=[(Name=generic.maxHealth,Base=200),(Name=generic.movementSpeed,Base=0.4),(Name=generic.knockbackResistance,Base=1)],DropChances=[2.0F,2.0F,2.0F,2.0F,2.0F],Silent=1,CanBreakDoors=1)@luck=-1
+
+/ The texture not found
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.texturenotfound_sword,tag=(Unbreakable=1,display=(Name="Texture not found-Sword $0($eUltimate$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=18.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=6,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101)])),(Count=1,ID=lootplusplus:error.texturenotfound_boots,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Boots $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5602,UUIDLeast=5702)])),(Count=1,ID=lootplusplus:error.texturenotfound_leggings,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Leggings $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5601,UUIDLeast=5701)])),(Count=1,ID=lootplusplus:error.texturenotfound_chestplate,NBTTag=(Unbreakable=1,display=(Name="Texture not found-Chestplate $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5600,UUIDLeast=5700)])),(Count=1,id=lootplusplus:error.texturenotfound_helmet,tag=(Unbreakable=1,display=(Name="Texture not found-Helmet $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=44389,UUIDLeast=145354)]))],CustomName=The Texture not Found,CustomNameVisible=1,Attributes=[(Name=generic.maxHealth,Base=200),(Name=generic.movementSpeed,Base=0.4),(Name=generic.knockbackResistance,Base=1)],DropChances=[2.0F,2.0F,2.0F,2.0F,2.0F],Silent=1,CanBreakDoors=1)@luck=-1
+
+/ The Glitch
+type=entity,ID=Zombie,NBTTag=(Equipment=[(Count=1,id=lootplusplus:error.glitch_sword,tag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad$r $0($eUltimate$0)"),ench=[(id=16,lvl=5),(id=17,lvl=5),(id=18,lvl=5),(id=19,lvl=2),(id=20,lvl=2),(id=21,lvl=3),(id=34,lvl=3)],AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=20.25,Operation=0,UUIDMost=987,UUIDLeast=9876),(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=6,Operation=0,UUIDMost=36656,UUIDLeast=108108),(AttributeName="generic.knockbackResistance",Name="generic.knockbackResistance",Amount=1,Operation=0,UUIDMost=1337,UUIDLeast=10101)])),(Count=1,ID=lootplusplus:error.glitch_boots,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5602,UUIDLeast=5702)])),(Count=1,ID=lootplusplus:error.glitch_leggings,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5601,UUIDLeast=5701)])),(Count=1,ID=lootplusplus:error.glitch_chestplate,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=5600,UUIDLeast=5700)])),(Count=1,ID=lootplusplus:error.glitch_helmet,NBTTag=(Unbreakable=1,display=(Name="$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt $0($d♥Soul$r-$4strengthening♥$0)"),AttributeModifiers=[(AttributeName="generic.maxHealth",Name="generic.maxHealth",Amount=20,Operation=0,UUIDMost=44389,UUIDLeast=145354)]))],CustomName=$k$1T$2H$3E $4G$5L$6I$7T$8C$9H,CustomNameVisible=1,Attributes=[(Name=generic.maxHealth,Base=200),(Name=generic.movementSpeed,Base=0.4)],DropChances=[2.0F,2.0F,2.0F,2.0F,2.0F],Silent=1)@luck=-1
+
+/ -- Friendly --
+
+/ - villagers -
+
+/ missing texture villager
+type=entity,ID=Villager,NBTTag=(CustomName="$0M$5i$0s$5s$0i$5n$0g $5t$0e$5x$0t$5u$0r$5e $fTrader",Count=1,Offers=(Recipes=[\
+(buy=(id="diamond",Count=10),maxUses=9999999,sell=(id="lootplusplus:error.missingtexture_sword",Count=1,tag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0w$5o$0r$5d")))),\
+(buy=(id="diamond",Count=9),maxUses=9999999,sell=(id="lootplusplus:error.missingtexture_axe",Count=1,tag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5A$0x$5e")))),\
+(buy=(id="diamond",Count=8),maxUses=9999999,sell=(id="lootplusplus:error.missingtexture_pickaxe",Count=1,tag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5P$0i$5c$0k$5a$0x$5e")))),\
+(buy=(id="diamond",Count=7),maxUses=9999999,sell=(id="lootplusplus:error.missingtexture_shovel",Count=1,tag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5S$0h$5o$0v$5e$0l")))),\
+(buy=(id="diamond",Count=5),maxUses=9999999,sell=(id="lootplusplus:error.missingtexture_hoe",Count=1,tag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0o$5e")))),\
+(buy=(id="diamond",Count=12),maxUses=9999999,sell=(id="lootplusplus:error.missingtexture_material",Count=32,tag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5M$0a$5t$0e$5r$0i$5a$0l")))),\
+(buy=(id="diamond",Count=64),maxUses=9999999,sell=(id="lootplusplus:error.missingtexture_block",Count=10,tag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0l$5o$0c$5k")))),\
+(buy=(id="diamond",Count=10),maxUses=9999999,sell=(id="lootplusplus:error.missingtexture_helmet",Count=1,tag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5H$0e$5l$0m$5e$0t")))),\
+(buy=(id="diamond",Count=14),maxUses=9999999,sell=(id="lootplusplus:error.missingtexture_chestplate",Count=1,tag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5C$0h$5e$0s$5t$0p$5l$0a$5t$0e")))),\
+(buy=(id="diamond",Count=12),maxUses=9999999,sell=(id="lootplusplus:error.missingtexture_leggings",Count=1,tag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5L$0e$5g$0g$5i$0n$5g$0s")))),\
+(buy=(id="diamond",Count=8),maxUses=9999999,sell=(id="lootplusplus:error.missingtexture_boots",Count=1,tag=(display=(Name="$0M$5i$0s$5s$0i$5n$0g $5T$0x$5t$0u$5r$0e $5B$0o$5o$0t$5s"))))]))@luck=2@chance=0.1
+
+/ texture not found villager
+type=entity,ID=Villager,NBTTag=(CustomName="Texture not found-$fTrader",Count=1,Offers=(Recipes=[\
+(buy=(id="diamond",Count=8),maxUses=9999999,sell=(id="lootplusplus:error.texturenotfound_sword",Count=1)),\
+(buy=(id="diamond",Count=7),maxUses=9999999,sell=(id="lootplusplus:error.texturenotfound_axe",Count=1)),\
+(buy=(id="diamond",Count=6),maxUses=9999999,sell=(id="lootplusplus:error.texturenotfound_pickaxe",Count=1)),\
+(buy=(id="diamond",Count=5),maxUses=9999999,sell=(id="lootplusplus:error.texturenotfound_shovel",Count=1)),\
+(buy=(id="diamond",Count=3),maxUses=9999999,sell=(id="lootplusplus:error.texturenotfound_hoe",Count=1)),\
+(buy=(id="diamond",Count=12),maxUses=9999999,sell=(id="lootplusplus:error.texturenotfound_material",Count=32)),\
+(buy=(id="diamond",Count=64),maxUses=9999999,sell=(id="lootplusplus:error.texturenotfound_block",Count=10)),\
+(buy=(id="diamond",Count=20),maxUses=9999999,sell=(id="lootplusplus:error.texturenotfound_helmet",Count=1)),\
+(buy=(id="diamond",Count=28),maxUses=9999999,sell=(id="lootplusplus:error.texturenotfound_chestplate",Count=1)),\
+(buy=(id="diamond",Count=24),maxUses=9999999,sell=(id="lootplusplus:error.texturenotfound_leggings",Count=1)),\
+(buy=(id="diamond",Count=16),maxUses=9999999,sell=(id="lootplusplus:error.texturenotfound_boots",Count=1))]))@luck=2@chance=0.1
+
+/ glitch villager
+type=entity,id=Villager,NBTTag=(CustomName="$k$1G$2l$3i$4t$5c$6h$r-$fTrader",Count=1,Offers=(Recipes=[\
+(buy=(id="diamond",Count=12),maxUses=9999999,sell=(id="lootplusplus:error.glitch_sword",Count=1,tag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7w$8o$9r$ad")))),\
+(buy=(id="diamond",Count=11),maxUses=9999999,sell=(id="lootplusplus:error.glitch_axe",Count=1,tag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6A$7x$8e")))),\
+(buy=(id="diamond",Count=10),maxUses=9999999,sell=(id="lootplusplus:error.glitch_pickaxe",Count=1,tag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6P$7i$8c$9k$aa$bx$ce")))),\
+(buy=(id="diamond",Count=9),maxUses=9999999,sell=(id="lootplusplus:error.glitch_shovel",Count=1,tag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6S$7h$8o$9v$ae$bl")))),\
+(buy=(id="diamond",Count=7),maxUses=9999999,sell=(id="lootplusplus:error.glitch_hoe",Count=1,tag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6H$7o$8e")))),\
+(buy=(id="diamond",Count=12),maxUses=9999999,sell=(id="lootplusplus:error.glitch_material",Count=32,amount=#rand(2,32),tag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6M$7a$8t$9e$ar$bi$ca$dl")))),\
+(buy=(id="diamond",Count=64),maxUses=9999999,sell=(id="lootplusplus:error.glitch_block",Count=10,amount=#rand(1,10),tag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6B$7l$8o$9c$ak")))),\
+(buy=(id="diamond",Count=9),maxUses=9999999,sell=(id="lootplusplus:error.glitch_helmet",Count=1,tag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6H$7e$8l$9m$ae$bt")))),\
+(buy=(id="diamond",Count=13),maxUses=9999999,sell=(id="lootplusplus:error.glitch_chestplate",Count=1,tag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6C$7h$8e$9s$at$bp$cl$da$et$fe")))),\
+(buy=(id="diamond",Count=11),maxUses=9999999,sell=(id="lootplusplus:error.glitch_leggings",Count=1,tag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6L$7e$8g$9g$ai$bn$cg$ds")))),\
+(buy=(id="diamond",Count=7),maxUses=9999999,sell=(id="lootplusplus:error.glitch_boots",Count=1,tag=(display=(Name="$k$1G$2l$3i$4t$5c$0h $6B$7o$8o$9t$as"))))]))@luck=2@chance=0.1
+
+/ lucky error villager
+type=entity,ID=Villager,NBTTag=(CustomName="$cLucky error-$fTrader",Count=1,Offers=(Recipes=[\
+(buy=(id="diamond",Count=12),maxUses=9999999,sell=(id="lucky:error_lucky_sword",Count=1)),\
+(buy=(id="diamond",Count=5),maxUses=9999999,sell=(id="lucky:lucky_block_error",Count=1)),\
+(buy=(id="diamond",Count=12),maxUses=9999999,sell=(id="lucky:error_lucky_bow",Count=1)),\
+(buy=(id="diamond",Count=4),maxUses=9999999,sell=(id="lucky:error_lucky_potion",Count=1)),\
+(buy=(id="diamond",Count=10),maxUses=9999999,sell=(id="lootplusplus:error.luckyerror_material",Count=32)),\
+(buy=(id="diamond",Count=18),maxUses=9999999,sell=(id="lootplusplus:error.luckyerror_helmet",Count=1)),\
+(buy=(id="diamond",Count=22),maxUses=9999999,sell=(id="lootplusplus:error.luckyerror_chestplate",Count=1)),\
+(buy=(id="diamond",Count=20),maxUses=9999999,sell=(id="lootplusplus:error.luckyerror_leggings",Count=1)),\
+(buy=(id="diamond",Count=16),maxUses=9999999,sell=(id="lootplusplus:error.luckyerror_boots",Count=1))]))@luck=2@chance=0.1
+
+/ --- Loading failed ---
+
+/ glitchifikation
+
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Failed to load drop!","color":"dark_red"}"; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop"}", delay=2; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop."}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop.."}", delay=4; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop..."}", delay=5; \
+type=message,ID="$coops",delay=8; \
+type=message,ID="$cI try to fix that",delay=10; \
+type=message,ID="$cShould be fixed",delay=15; \
+type=message,ID="$cUh...ok...it isnt gone...but it stopped!",delay=18; \
+type=block,ID=lootplusplus:error.glitch_block, delay=8; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX,posY=#bPosY,posZ=#bPosZ+1,delay=9 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX+1,posY=#bPosY+1,posZ=#bPosZ+1,delay=10 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX+2,posY=#bPosY+2,posZ=#bPosZ+1,delay=11 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX+2,posY=#bPosY+2,posZ=#bPosZ+2,delay=13 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX+1,posY=#bPosY+3,posZ=#bPosZ+2,delay=14 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX+2,posY=#bPosY+4,posZ=#bPosZ+3,delay=15 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-1,posY=#bPosY,posZ=#bPosZ-1,delay=9 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-2,posY=#bPosY-1,posZ=#bPosZ-1,delay=10 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-2,posY=#bPosY-2,posZ=#bPosZ-2,delay=11 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-1,posY=#bPosY-3,posZ=#bPosZ-2,delay=12 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-2,posY=#bPosY-3,posZ=#bPosZ-3,delay=13 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-1,posY=#bPosY-4,posZ=#bPosZ-4,delay=14 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-2,posY=#bPosY-6,posZ=#bPosZ-4,delay=14 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-1,posY=#bPosY,posZ=#bPosZ-1,delay=9 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-2,posY=#bPosY-1,posZ=#bPosZ+1,delay=10 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-2,posY=#bPosY-2,posZ=#bPosZ+2,delay=11 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-3,posY=#bPosY-1,posZ=#bPosZ+2,delay=12 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-3,posY=#bPosY-1,posZ=#bPosZ+3,delay=13 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-4,posY=#bPosY-2,posZ=#bPosZ+4,delay=14 ; \
+type=block,ID=lootplusplus:error.glitch_block,posX=#bPosX-4,posY=#bPosY-1,posZ=#bPosZ+4,delay=15)
+
+/ instant diamonds
+
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Failed to load drop!","color":"dark_red"}"; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop"}", delay=2; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop."}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop.."}", delay=4; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop..."}", delay=5; \
+type=message,ID="$b128 diamonds for you!",delay=6; \
+type=item,ID=diamond,delay=6,amount=128)@luck=2@chance=0.1
+
+/ diamonds
+
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Failed to load drop!","color":"dark_red"}"; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop"}", delay=2; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop."}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop.."}", delay=4; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop..."}", delay=5; \
+type=message,ID="$b128 diamonds for you!",delay=6; \
+type=message,ID="$cwell...",delay=8; \
+type=message,ID="$cuh...",delay=10; \
+type=message,ID="$cops...",delay=10; \
+type=message,ID="$cjust wait...",delay=14; \
+type=item,ID=diamond,delay=10; \
+type=item,ID=diamond,delay=11; \
+type=item,ID=diamond,delay=12; \
+type=item,ID=diamond,delay=13; \
+type=item,ID=diamond,delay=14; \
+type=item,ID=diamond,delay=15; \
+type=item,ID=diamond,delay=16; \
+type=item,ID=diamond,delay=17; \
+type=item,ID=diamond,delay=18; \
+type=item,ID=diamond,delay=19; \
+type=item,ID=diamond,delay=20; \
+type=item,ID=diamond,delay=21; \
+type=item,ID=diamond,delay=22; \
+type=item,ID=diamond,delay=23; \
+type=item,ID=diamond,delay=24; \
+type=item,ID=diamond,delay=25; \
+type=item,ID=diamond,delay=26; \
+type=item,ID=diamond,delay=27; \
+type=item,ID=diamond,delay=28; \
+type=item,ID=diamond,delay=29; \
+type=item,ID=diamond,delay=30; \
+type=item,ID=diamond,delay=31; \
+type=item,ID=diamond,delay=32; \
+type=item,ID=diamond,delay=33; \
+type=item,ID=diamond,delay=34; \
+type=item,ID=diamond,delay=35; \
+type=item,ID=diamond,delay=36; \
+type=item,ID=diamond,delay=37; \
+type=item,ID=diamond,delay=38; \
+type=item,ID=diamond,delay=39; \
+type=item,ID=diamond,delay=40; \
+type=item,ID=diamond,delay=41; \
+type=item,ID=diamond,delay=42; \
+type=item,ID=diamond,delay=43; \
+type=item,ID=diamond,delay=44; \
+type=item,ID=diamond,delay=45; \
+type=item,ID=diamond,delay=46; \
+type=item,ID=diamond,delay=47; \
+type=item,ID=diamond,delay=48; \
+type=item,ID=diamond,delay=49; \
+type=item,ID=diamond,delay=50; \
+type=item,ID=diamond,delay=51; \
+type=item,ID=diamond,delay=52; \
+type=item,ID=diamond,delay=53; \
+type=item,ID=diamond,delay=54; \
+type=item,ID=diamond,delay=55; \
+type=item,ID=diamond,delay=56; \
+type=item,ID=diamond,delay=57; \
+type=item,ID=diamond,delay=58; \
+type=item,ID=diamond,delay=59; \
+type=item,ID=diamond,delay=60; \
+type=item,ID=diamond,delay=61; \
+type=item,ID=diamond,delay=62; \
+type=item,ID=diamond,delay=63; \
+type=item,ID=diamond,delay=64; \
+type=item,ID=diamond,delay=65; \
+type=item,ID=diamond,delay=66; \
+type=item,ID=diamond,delay=67; \
+type=item,ID=diamond,delay=68; \
+type=item,ID=diamond,delay=69; \
+type=item,ID=diamond,delay=70; \
+type=item,ID=diamond,delay=71; \
+type=item,ID=diamond,delay=72; \
+type=item,ID=diamond,delay=73; \
+type=item,ID=diamond,delay=74; \
+type=item,ID=diamond,delay=75; \
+type=item,ID=diamond,delay=76; \
+type=item,ID=diamond,delay=77; \
+type=item,ID=diamond,delay=78; \
+type=item,ID=diamond,delay=79; \
+type=item,ID=diamond,delay=80; \
+type=item,ID=diamond,delay=81; \
+type=item,ID=diamond,delay=82; \
+type=item,ID=diamond,delay=83; \
+type=item,ID=diamond,delay=84; \
+type=item,ID=diamond,delay=85; \
+type=item,ID=diamond,delay=86; \
+type=item,ID=diamond,delay=87; \
+type=item,ID=diamond,delay=88; \
+type=item,ID=diamond,delay=89; \
+type=item,ID=diamond,delay=90; \
+type=item,ID=diamond,delay=91; \
+type=item,ID=diamond,delay=92; \
+type=item,ID=diamond,delay=93; \
+type=item,ID=diamond,delay=94; \
+type=item,ID=diamond,delay=95; \
+type=item,ID=diamond,delay=96; \
+type=item,ID=diamond,delay=97; \
+type=item,ID=diamond,delay=98; \
+type=item,ID=diamond,delay=99; \
+type=item,ID=diamond,delay=100; \
+type=item,ID=diamond,delay=101; \
+type=item,ID=diamond,delay=102; \
+type=item,ID=diamond,delay=103; \
+type=item,ID=diamond,delay=104; \
+type=item,ID=diamond,delay=105; \
+type=item,ID=diamond,delay=106; \
+type=item,ID=diamond,delay=107; \
+type=item,ID=diamond,delay=108; \
+type=item,ID=diamond,delay=109; \
+type=item,ID=diamond,delay=110; \
+type=item,ID=diamond,delay=111; \
+type=item,ID=diamond,delay=112; \
+type=item,ID=diamond,delay=113; \
+type=item,ID=diamond,delay=114; \
+type=item,ID=diamond,delay=115; \
+type=item,ID=diamond,delay=116; \
+type=item,ID=diamond,delay=117; \
+type=item,ID=diamond,delay=118; \
+type=item,ID=diamond,delay=119; \
+type=item,ID=diamond,delay=120; \
+type=item,ID=diamond,delay=121; \
+type=item,ID=diamond,delay=122; \
+type=item,ID=diamond,delay=123; \
+type=item,ID=diamond,delay=124; \
+type=item,ID=diamond,delay=125; \
+type=item,ID=diamond,delay=126; \
+type=item,ID=diamond,delay=127; \
+type=item,ID=diamond,delay=128; \
+type=item,ID=diamond,delay=129; \
+type=item,ID=diamond,delay=130; \
+type=item,ID=diamond,delay=131; \
+type=item,ID=diamond,delay=132; \
+type=item,ID=diamond,delay=133; \
+type=item,ID=diamond,delay=134; \
+type=item,ID=diamond,delay=135; \
+type=item,ID=diamond,delay=136; \
+type=item,ID=diamond,delay=137)@luck=1@chance=0.1
+
+/ instant emeralds
+
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Failed to load drop!","color":"dark_red"}"; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop"}", delay=2; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop."}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop.."}", delay=4; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop..."}", delay=5; \
+type=message,ID="$2128 emeralds for you!",delay=6; \
+type=item,ID=emerald,delay=6,amount=128)@luck=2@chance=0.1
+
+/ emeralds
+
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Failed to load drop!","color":"dark_red"}"; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop"}", delay=2; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop."}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop.."}", delay=4; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop..."}", delay=5; \
+type=message,ID="$2128 emeralds for you!",delay=6; \
+type=message,ID="$cwell...",delay=8; \
+type=message,ID="$cuh...",delay=10; \
+type=message,ID="$cops...",delay=10; \
+type=message,ID="$cjust wait...",delay=14; \
+type=item,ID=emerald,delay=10; \
+type=item,ID=emerald,delay=11; \
+type=item,ID=emerald,delay=12; \
+type=item,ID=emerald,delay=13; \
+type=item,ID=emerald,delay=14; \
+type=item,ID=emerald,delay=15; \
+type=item,ID=emerald,delay=16; \
+type=item,ID=emerald,delay=17; \
+type=item,ID=emerald,delay=18; \
+type=item,ID=emerald,delay=19; \
+type=item,ID=emerald,delay=20; \
+type=item,ID=emerald,delay=21; \
+type=item,ID=emerald,delay=22; \
+type=item,ID=emerald,delay=23; \
+type=item,ID=emerald,delay=24; \
+type=item,ID=emerald,delay=25; \
+type=item,ID=emerald,delay=26; \
+type=item,ID=emerald,delay=27; \
+type=item,ID=emerald,delay=28; \
+type=item,ID=emerald,delay=29; \
+type=item,ID=emerald,delay=30; \
+type=item,ID=emerald,delay=31; \
+type=item,ID=emerald,delay=32; \
+type=item,ID=emerald,delay=33; \
+type=item,ID=emerald,delay=34; \
+type=item,ID=emerald,delay=35; \
+type=item,ID=emerald,delay=36; \
+type=item,ID=emerald,delay=37; \
+type=item,ID=emerald,delay=38; \
+type=item,ID=emerald,delay=39; \
+type=item,ID=emerald,delay=40; \
+type=item,ID=emerald,delay=41; \
+type=item,ID=emerald,delay=42; \
+type=item,ID=emerald,delay=43; \
+type=item,ID=emerald,delay=44; \
+type=item,ID=emerald,delay=45; \
+type=item,ID=emerald,delay=46; \
+type=item,ID=emerald,delay=47; \
+type=item,ID=emerald,delay=48; \
+type=item,ID=emerald,delay=49; \
+type=item,ID=emerald,delay=50; \
+type=item,ID=emerald,delay=51; \
+type=item,ID=emerald,delay=52; \
+type=item,ID=emerald,delay=53; \
+type=item,ID=emerald,delay=54; \
+type=item,ID=emerald,delay=55; \
+type=item,ID=emerald,delay=56; \
+type=item,ID=emerald,delay=57; \
+type=item,ID=emerald,delay=58; \
+type=item,ID=emerald,delay=59; \
+type=item,ID=emerald,delay=60; \
+type=item,ID=emerald,delay=61; \
+type=item,ID=emerald,delay=62; \
+type=item,ID=emerald,delay=63; \
+type=item,ID=emerald,delay=64; \
+type=item,ID=emerald,delay=65; \
+type=item,ID=emerald,delay=66; \
+type=item,ID=emerald,delay=67; \
+type=item,ID=emerald,delay=68; \
+type=item,ID=emerald,delay=69; \
+type=item,ID=emerald,delay=70; \
+type=item,ID=emerald,delay=71; \
+type=item,ID=emerald,delay=72; \
+type=item,ID=emerald,delay=73; \
+type=item,ID=emerald,delay=74; \
+type=item,ID=emerald,delay=75; \
+type=item,ID=emerald,delay=76; \
+type=item,ID=emerald,delay=77; \
+type=item,ID=emerald,delay=78; \
+type=item,ID=emerald,delay=79; \
+type=item,ID=emerald,delay=80; \
+type=item,ID=emerald,delay=81; \
+type=item,ID=emerald,delay=82; \
+type=item,ID=emerald,delay=83; \
+type=item,ID=emerald,delay=84; \
+type=item,ID=emerald,delay=85; \
+type=item,ID=emerald,delay=86; \
+type=item,ID=emerald,delay=87; \
+type=item,ID=emerald,delay=88; \
+type=item,ID=emerald,delay=89; \
+type=item,ID=emerald,delay=90; \
+type=item,ID=emerald,delay=91; \
+type=item,ID=emerald,delay=92; \
+type=item,ID=emerald,delay=93; \
+type=item,ID=emerald,delay=94; \
+type=item,ID=emerald,delay=95; \
+type=item,ID=emerald,delay=96; \
+type=item,ID=emerald,delay=97; \
+type=item,ID=emerald,delay=98; \
+type=item,ID=emerald,delay=99; \
+type=item,ID=emerald,delay=100; \
+type=item,ID=emerald,delay=101; \
+type=item,ID=emerald,delay=102; \
+type=item,ID=emerald,delay=103; \
+type=item,ID=emerald,delay=104; \
+type=item,ID=emerald,delay=105; \
+type=item,ID=emerald,delay=106; \
+type=item,ID=emerald,delay=107; \
+type=item,ID=emerald,delay=108; \
+type=item,ID=emerald,delay=109; \
+type=item,ID=emerald,delay=110; \
+type=item,ID=emerald,delay=111; \
+type=item,ID=emerald,delay=112; \
+type=item,ID=emerald,delay=113; \
+type=item,ID=emerald,delay=114; \
+type=item,ID=emerald,delay=115; \
+type=item,ID=emerald,delay=116; \
+type=item,ID=emerald,delay=117; \
+type=item,ID=emerald,delay=118; \
+type=item,ID=emerald,delay=119; \
+type=item,ID=emerald,delay=120; \
+type=item,ID=emerald,delay=121; \
+type=item,ID=emerald,delay=122; \
+type=item,ID=emerald,delay=123; \
+type=item,ID=emerald,delay=124; \
+type=item,ID=emerald,delay=125; \
+type=item,ID=emerald,delay=126; \
+type=item,ID=emerald,delay=127; \
+type=item,ID=emerald,delay=128; \
+type=item,ID=emerald,delay=129; \
+type=item,ID=emerald,delay=130; \
+type=item,ID=emerald,delay=131; \
+type=item,ID=emerald,delay=132; \
+type=item,ID=emerald,delay=133; \
+type=item,ID=emerald,delay=134; \
+type=item,ID=emerald,delay=135; \
+type=item,ID=emerald,delay=136; \
+type=item,ID=emerald,delay=137)@luck=1@chance=0.1
+
+/ materials
+
+/ instant lootplusplus:error.glitch_materials
+
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Failed to load drop!","color":"dark_red"}"; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop"}", delay=2; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop."}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop.."}", delay=4; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop..."}", delay=5; \
+type=message,ID="$6128 glitch materials for you!",delay=6; \
+type=item,ID=lootplusplus:error.glitch_material,delay=6,amount=128)@luck=2@chance=0.1
+
+/ lootplusplus:error.glitch_materials
+
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Failed to load drop!","color":"dark_red"}"; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop"}", delay=2; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop."}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop.."}", delay=4; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop..."}", delay=5; \
+type=message,ID="$6128 glitch materials for you!",delay=6; \
+type=message,ID="$cwell...",delay=8; \
+type=message,ID="$cuh...",delay=10; \
+type=message,ID="$cops...",delay=10; \
+type=message,ID="$cjust wait...",delay=14; \
+type=item,ID=lootplusplus:error.glitch_material,delay=10; \
+type=item,ID=lootplusplus:error.glitch_material,delay=11; \
+type=item,ID=lootplusplus:error.glitch_material,delay=12; \
+type=item,ID=lootplusplus:error.glitch_material,delay=13; \
+type=item,ID=lootplusplus:error.glitch_material,delay=14; \
+type=item,ID=lootplusplus:error.glitch_material,delay=15; \
+type=item,ID=lootplusplus:error.glitch_material,delay=16; \
+type=item,ID=lootplusplus:error.glitch_material,delay=17; \
+type=item,ID=lootplusplus:error.glitch_material,delay=18; \
+type=item,ID=lootplusplus:error.glitch_material,delay=19; \
+type=item,ID=lootplusplus:error.glitch_material,delay=20; \
+type=item,ID=lootplusplus:error.glitch_material,delay=21; \
+type=item,ID=lootplusplus:error.glitch_material,delay=22; \
+type=item,ID=lootplusplus:error.glitch_material,delay=23; \
+type=item,ID=lootplusplus:error.glitch_material,delay=24; \
+type=item,ID=lootplusplus:error.glitch_material,delay=25; \
+type=item,ID=lootplusplus:error.glitch_material,delay=26; \
+type=item,ID=lootplusplus:error.glitch_material,delay=27; \
+type=item,ID=lootplusplus:error.glitch_material,delay=28; \
+type=item,ID=lootplusplus:error.glitch_material,delay=29; \
+type=item,ID=lootplusplus:error.glitch_material,delay=30; \
+type=item,ID=lootplusplus:error.glitch_material,delay=31; \
+type=item,ID=lootplusplus:error.glitch_material,delay=32; \
+type=item,ID=lootplusplus:error.glitch_material,delay=33; \
+type=item,ID=lootplusplus:error.glitch_material,delay=34; \
+type=item,ID=lootplusplus:error.glitch_material,delay=35; \
+type=item,ID=lootplusplus:error.glitch_material,delay=36; \
+type=item,ID=lootplusplus:error.glitch_material,delay=37; \
+type=item,ID=lootplusplus:error.glitch_material,delay=38; \
+type=item,ID=lootplusplus:error.glitch_material,delay=39; \
+type=item,ID=lootplusplus:error.glitch_material,delay=40; \
+type=item,ID=lootplusplus:error.glitch_material,delay=41; \
+type=item,ID=lootplusplus:error.glitch_material,delay=42; \
+type=item,ID=lootplusplus:error.glitch_material,delay=43; \
+type=item,ID=lootplusplus:error.glitch_material,delay=44; \
+type=item,ID=lootplusplus:error.glitch_material,delay=45; \
+type=item,ID=lootplusplus:error.glitch_material,delay=46; \
+type=item,ID=lootplusplus:error.glitch_material,delay=47; \
+type=item,ID=lootplusplus:error.glitch_material,delay=48; \
+type=item,ID=lootplusplus:error.glitch_material,delay=49; \
+type=item,ID=lootplusplus:error.glitch_material,delay=50; \
+type=item,ID=lootplusplus:error.glitch_material,delay=51; \
+type=item,ID=lootplusplus:error.glitch_material,delay=52; \
+type=item,ID=lootplusplus:error.glitch_material,delay=53; \
+type=item,ID=lootplusplus:error.glitch_material,delay=54; \
+type=item,ID=lootplusplus:error.glitch_material,delay=55; \
+type=item,ID=lootplusplus:error.glitch_material,delay=56; \
+type=item,ID=lootplusplus:error.glitch_material,delay=57; \
+type=item,ID=lootplusplus:error.glitch_material,delay=58; \
+type=item,ID=lootplusplus:error.glitch_material,delay=59; \
+type=item,ID=lootplusplus:error.glitch_material,delay=60; \
+type=item,ID=lootplusplus:error.glitch_material,delay=61; \
+type=item,ID=lootplusplus:error.glitch_material,delay=62; \
+type=item,ID=lootplusplus:error.glitch_material,delay=63; \
+type=item,ID=lootplusplus:error.glitch_material,delay=64; \
+type=item,ID=lootplusplus:error.glitch_material,delay=65; \
+type=item,ID=lootplusplus:error.glitch_material,delay=66; \
+type=item,ID=lootplusplus:error.glitch_material,delay=67; \
+type=item,ID=lootplusplus:error.glitch_material,delay=68; \
+type=item,ID=lootplusplus:error.glitch_material,delay=69; \
+type=item,ID=lootplusplus:error.glitch_material,delay=70; \
+type=item,ID=lootplusplus:error.glitch_material,delay=71; \
+type=item,ID=lootplusplus:error.glitch_material,delay=72; \
+type=item,ID=lootplusplus:error.glitch_material,delay=73; \
+type=item,ID=lootplusplus:error.glitch_material,delay=74; \
+type=item,ID=lootplusplus:error.glitch_material,delay=75; \
+type=item,ID=lootplusplus:error.glitch_material,delay=76; \
+type=item,ID=lootplusplus:error.glitch_material,delay=77; \
+type=item,ID=lootplusplus:error.glitch_material,delay=78; \
+type=item,ID=lootplusplus:error.glitch_material,delay=79; \
+type=item,ID=lootplusplus:error.glitch_material,delay=80; \
+type=item,ID=lootplusplus:error.glitch_material,delay=81; \
+type=item,ID=lootplusplus:error.glitch_material,delay=82; \
+type=item,ID=lootplusplus:error.glitch_material,delay=83; \
+type=item,ID=lootplusplus:error.glitch_material,delay=84; \
+type=item,ID=lootplusplus:error.glitch_material,delay=85; \
+type=item,ID=lootplusplus:error.glitch_material,delay=86; \
+type=item,ID=lootplusplus:error.glitch_material,delay=87; \
+type=item,ID=lootplusplus:error.glitch_material,delay=88; \
+type=item,ID=lootplusplus:error.glitch_material,delay=89; \
+type=item,ID=lootplusplus:error.glitch_material,delay=90; \
+type=item,ID=lootplusplus:error.glitch_material,delay=91; \
+type=item,ID=lootplusplus:error.glitch_material,delay=92; \
+type=item,ID=lootplusplus:error.glitch_material,delay=93; \
+type=item,ID=lootplusplus:error.glitch_material,delay=94; \
+type=item,ID=lootplusplus:error.glitch_material,delay=95; \
+type=item,ID=lootplusplus:error.glitch_material,delay=96; \
+type=item,ID=lootplusplus:error.glitch_material,delay=97; \
+type=item,ID=lootplusplus:error.glitch_material,delay=98; \
+type=item,ID=lootplusplus:error.glitch_material,delay=99; \
+type=item,ID=lootplusplus:error.glitch_material,delay=100; \
+type=item,ID=lootplusplus:error.glitch_material,delay=101; \
+type=item,ID=lootplusplus:error.glitch_material,delay=102; \
+type=item,ID=lootplusplus:error.glitch_material,delay=103; \
+type=item,ID=lootplusplus:error.glitch_material,delay=104; \
+type=item,ID=lootplusplus:error.glitch_material,delay=105; \
+type=item,ID=lootplusplus:error.glitch_material,delay=106; \
+type=item,ID=lootplusplus:error.glitch_material,delay=107; \
+type=item,ID=lootplusplus:error.glitch_material,delay=108; \
+type=item,ID=lootplusplus:error.glitch_material,delay=109; \
+type=item,ID=lootplusplus:error.glitch_material,delay=110; \
+type=item,ID=lootplusplus:error.glitch_material,delay=111; \
+type=item,ID=lootplusplus:error.glitch_material,delay=112; \
+type=item,ID=lootplusplus:error.glitch_material,delay=113; \
+type=item,ID=lootplusplus:error.glitch_material,delay=114; \
+type=item,ID=lootplusplus:error.glitch_material,delay=115; \
+type=item,ID=lootplusplus:error.glitch_material,delay=116; \
+type=item,ID=lootplusplus:error.glitch_material,delay=117; \
+type=item,ID=lootplusplus:error.glitch_material,delay=118; \
+type=item,ID=lootplusplus:error.glitch_material,delay=119; \
+type=item,ID=lootplusplus:error.glitch_material,delay=120; \
+type=item,ID=lootplusplus:error.glitch_material,delay=121; \
+type=item,ID=lootplusplus:error.glitch_material,delay=122; \
+type=item,ID=lootplusplus:error.glitch_material,delay=123; \
+type=item,ID=lootplusplus:error.glitch_material,delay=124; \
+type=item,ID=lootplusplus:error.glitch_material,delay=125; \
+type=item,ID=lootplusplus:error.glitch_material,delay=126; \
+type=item,ID=lootplusplus:error.glitch_material,delay=127; \
+type=item,ID=lootplusplus:error.glitch_material,delay=128; \
+type=item,ID=lootplusplus:error.glitch_material,delay=129; \
+type=item,ID=lootplusplus:error.glitch_material,delay=130; \
+type=item,ID=lootplusplus:error.glitch_material,delay=131; \
+type=item,ID=lootplusplus:error.glitch_material,delay=132; \
+type=item,ID=lootplusplus:error.glitch_material,delay=133; \
+type=item,ID=lootplusplus:error.glitch_material,delay=134; \
+type=item,ID=lootplusplus:error.glitch_material,delay=135; \
+type=item,ID=lootplusplus:error.glitch_material,delay=136; \
+type=item,ID=lootplusplus:error.glitch_material,delay=137)@luck=1@chance=0.1
+
+/ instant lootplusplus:error.luckyerror_materials
+
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Failed to load drop!","color":"dark_red"}"; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop"}", delay=2; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop."}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop.."}", delay=4; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop..."}", delay=5; \
+type=message,ID="$4128 lucky error materials for you!",delay=6; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=6,amount=128)@luck=2@chance=0.1
+
+/ lootplusplus:error.luckyerror_materials
+
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Failed to load drop!","color":"dark_red"}"; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop"}", delay=2; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop."}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop.."}", delay=4; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop..."}", delay=5; \
+type=message,ID="$4128 lucky error materials for you!",delay=6; \
+type=message,ID="$cwell...",delay=8; \
+type=message,ID="$cuh...",delay=10; \
+type=message,ID="$cops...",delay=10; \
+type=message,ID="$cjust wait...",delay=14; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=10; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=11; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=12; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=13; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=14; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=15; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=16; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=17; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=18; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=19; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=20; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=21; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=22; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=23; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=24; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=25; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=26; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=27; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=28; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=29; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=30; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=31; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=32; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=33; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=34; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=35; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=36; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=37; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=38; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=39; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=40; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=41; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=42; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=43; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=44; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=45; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=46; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=47; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=48; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=49; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=50; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=51; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=52; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=53; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=54; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=55; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=56; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=57; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=58; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=59; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=60; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=61; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=62; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=63; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=64; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=65; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=66; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=67; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=68; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=69; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=70; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=71; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=72; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=73; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=74; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=75; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=76; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=77; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=78; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=79; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=80; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=81; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=82; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=83; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=84; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=85; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=86; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=87; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=88; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=89; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=90; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=91; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=92; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=93; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=94; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=95; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=96; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=97; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=98; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=99; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=100; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=101; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=102; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=103; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=104; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=105; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=106; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=107; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=108; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=109; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=110; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=111; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=112; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=113; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=114; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=115; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=116; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=117; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=118; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=119; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=120; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=121; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=122; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=123; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=124; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=125; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=126; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=127; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=128; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=129; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=130; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=131; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=132; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=133; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=134; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=135; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=136; \
+type=item,ID=lootplusplus:error.luckyerror_material,delay=137)@luck=1@chance=0.1
+
+/ instant lootplusplus:error.texturenotfound_materials
+
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Failed to load drop!","color":"dark_red"}"; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop"}", delay=2; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop."}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop.."}", delay=4; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop..."}", delay=5; \
+type=message,ID="$0128 texture not found materials for you!",delay=6; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=6,amount=128)@luck=2@chance=0.1
+
+/ lootplusplus:error.texturenotfound_materials
+
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Failed to load drop!","color":"dark_red"}"; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop"}", delay=2; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop."}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop.."}", delay=4; \
+type=command,ID="lppcondition title @a[r=12] subtitle {"text":"Start to reloading the drop..."}", delay=5; \
+type=message,ID="$0128 texture not found materials for you!",delay=6; \
+type=message,ID="$cwell...",delay=8; \
+type=message,ID="$cuh...",delay=10; \
+type=message,ID="$cops...",delay=10; \
+type=message,ID="$cjust wait...",delay=14; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=10; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=11; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=12; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=13; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=14; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=15; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=16; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=17; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=18; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=19; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=20; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=21; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=22; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=23; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=24; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=25; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=26; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=27; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=28; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=29; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=30; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=31; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=32; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=33; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=34; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=35; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=36; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=37; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=38; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=39; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=40; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=41; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=42; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=43; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=44; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=45; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=46; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=47; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=48; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=49; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=50; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=51; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=52; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=53; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=54; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=55; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=56; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=57; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=58; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=59; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=60; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=61; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=62; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=63; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=64; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=65; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=66; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=67; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=68; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=69; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=70; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=71; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=72; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=73; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=74; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=75; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=76; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=77; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=78; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=79; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=80; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=81; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=82; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=83; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=84; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=85; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=86; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=87; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=88; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=89; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=90; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=91; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=92; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=93; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=94; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=95; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=96; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=97; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=98; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=99; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=100; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=101; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=102; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=103; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=104; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=105; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=106; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=107; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=108; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=109; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=110; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=111; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=112; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=113; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=114; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=115; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=116; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=117; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=118; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=119; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=120; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=121; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=122; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=123; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=124; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=125; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=126; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=127; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=128; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=129; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=130; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=131; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=132; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=133; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=134; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=135; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=136; \
+type=item,ID=lootplusplus:error.texturenotfound_material,delay=137)@luck=1@chance=0.1
+
+/ ---error 404 drop not found---
+
+/ instant random items
+
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Error 404"}", delay=1; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Drop not found"}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"picking a new drop"}", delay=6; \
+type=message,ID="$6128 random items for you!",delay=6; \
+type=item,ID=#randList(lootplusplus:error.glitch_material,lootplusplus:error.luckyerror_material,lootplusplus:error.texturenotfound_material,stone,grass,dirt,cobblestone,planks,sapling,bedrock,sand,gravel,gold_ore,iron_ore,coal_ore,log,leaves,sponge,glass,lapis_ore,lapis_block,dispenser,sandstone,noteblock,golden_rail,detector_rail,sticky_piston,web,tallgrass,deadbush,piston,wool,yellow_flower,red_flower,brown_mushroom,red_mushroom,gold_block,iron_block,stone_slab,brick_block,tnt,bookshelf,mossy_cobblestone,obsidian,torch,fire,mob_spawner,oak_stairs,chest,redstone,diamond_ore,diamond_block,crafting_table,wheat,farmland,furnace,lit_furnace,wooden_door,ladder,rail,stone_stairs,lever,wooden_pressure_plate,redstone_ore,redstone_torch,stone_button,snow_layer,ice,snow,cactus,clay,reeds,jukebox,fence,pumpkin,netherrack,soul_sand,glowstone,portal,cake,trapdoor,monster_egg,stonebrick,brown_mushroom_block,red_mushroom_block,iron_bars,glass_pane,melon_block,vine,fence_gate,brick_stairs,stone_brick_stairs,mycelium,waterlily,nether_brick,nether_brick_stairs,nether_wart,enchanting_table,brewing_stand,couldron,end_portal,end_portal_frame,end_stone,dragon_egg,redstone_lamp,wooden_slab,cocoa,emerald_ore,ender_chest,emerald_block,spruce_stairs,birch_stairs,jungle_stairs,command_block,beacon,cobblestone_wall,flower_pot,wooden_button,skull,anvil,trapped_chest,light_weighted_pressure_plate,heavy_weighted_pressure_plate,daylight_detector,redstone_block,quartz_ore,hopper,quartz_block,quartz_stairs,activator_rail,dropper,stained_hardened_clay,slime,barrier,iron_trapdoor,prismarine,sea_lantern,carpet),delay=6,amount=128)@luck=-1@chance=0.5
+
+/ 404 sword
+
+/ AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=0,Operation=0,UUIDMost=1438,UUIDLeast=237023)]
+
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Error 404"}", delay=1; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Drop not found"}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"picking a new drop"}", delay=6; \
+ID=lootplusplus:error.missingtexture_sword,delay=8,NBTTag=(display=(Name="$cSword not found"),AttributeModifiers=[(AttributeName="generic.attackDamage",Name="generic.attackDamage",Amount=0,Operation=0,UUIDMost=1438,UUIDLeast=237023)]))@luck=2@chance=0.1
+
+/ big explosion
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Error 404"}", delay=1; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Drop not found"}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"picking a new drop"}", delay=6; \
+type=explosion,radius=#rand(1,24),delay=8)@luck=-2@chance=0.5
+
+/ error portal with some guards (w.i.p)
+group(type=command,ID="gamerule commandBlockOutput false"; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Error 404"}", delay=1; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"Drop not found"}", delay=3; \
+type=command,ID="lppcondition title @a[r=12] title {"text":"picking a new drop"}", delay=6; \
+type=message,ID="#cthats not good...",delay=8; \
+type=block,ID=lootplusplus:error.glitch_block,delay=8; \
+)@luck=-2@chance=0.000001
