@@ -10,3 +10,5 @@ type=entity,ID=Zombie@luck=-1
 / Skeleton
 type=entity,ID=Skeleton@luck=-1
 
+/ All Negative
+group(type=particle,ID=reddust;type=effect,ID=2,range=4,duration=300;type=effect,ID=4,range=4,duration=300;type=effect,ID=7,range=4,duration=300;type=effect,ID=9,range=4,duration=300;type=effect,ID=15,range=4,duration=300;type=effect,ID=17,range=4,duration=300;type=effect,ID=18,range=4,duration=300;type=effect,ID=19,range=4,duration=300;type=effect,ID=20,range=4,duration=300)@luck=-2@chance=0.5
