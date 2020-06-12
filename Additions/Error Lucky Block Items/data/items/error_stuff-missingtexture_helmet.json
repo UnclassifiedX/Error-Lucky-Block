@@ -1,0 +1,7 @@
+{
+  "name": "Missing Texture-Helmet",
+  "max_stack": 1,
+  "material": "ADDITIONS-ERROR_STUFF-MISSINGTEXTUREARMOR_MATERIAL",
+  "slot": "HEAD",
+  "type": "additions:armor"
+}

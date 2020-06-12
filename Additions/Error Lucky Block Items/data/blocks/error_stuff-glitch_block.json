@@ -1,0 +1,11 @@
+{
+  "item_block": {
+    "name": "§0-§1-§2-§3-§4-§5-§6-§7-§8-§9-§a-§b-§c-§d-§e-§r-Block",
+    "type": "additions:block_simple"
+  },
+  "name": "§0-§1-§2-§3-§4-§5-§6-§7-§8-§9-§a-§b-§c-§d-§e-§r-Block",
+  "material": "minecraft:stone",
+  "hardness": 1.0,
+  "harvest_tool": "pickaxe",
+  "type": "additions:simple"
+}

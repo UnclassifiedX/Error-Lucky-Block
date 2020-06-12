@@ -1,0 +1,134 @@
+{
+  "name": "§0Error",
+  "tab_item": {
+    "item": "lucky:lucky_block_error"
+  },
+  "items": [
+    {
+      "item": "lucky:lucky_block_error"
+    },
+    {
+      "item": "lucky:error_lucky_sword"
+    },
+    {
+      "item": "lucky:error_lucky_bow"
+    },
+    {
+      "item": "lucky:error_lucky_potion"
+    },
+    {
+      "item": "additions:error_stuff-luckyerror_helmet"
+    },
+    {
+      "item": "additions:error_stuff-luckyerror_chestplate"
+    },
+    {
+      "item": "additions:error_stuff-luckyerror_leggings"
+    },
+    {
+      "item": "additions:error_stuff-luckyerror_boots"
+    },
+    {
+      "item": "additions:error_stuff-luckyerror_material"
+    },
+    {
+      "item": "additions:error_stuff-missingtexture_block"
+    },
+    {
+      "item": "additions:error_stuff-missingtexture_material"
+    },
+    {
+      "item": "additions:error_stuff-missingtexture_hoe"
+    },
+    {
+      "item": "additions:error_stuff-missingtexture_shovel"
+    },
+    {
+      "item": "additions:error_stuff-missingtexture_pickaxe"
+    },
+    {
+      "item": "additions:error_stuff-missingtexture_axe"
+    },
+    {
+      "item": "additions:error_stuff-missingtexture_sword"
+    },
+    {
+      "item": "additions:error_stuff-missingtexture_helmet"
+    },
+    {
+      "item": "additions:error_stuff-missingtexture_chestplate"
+    },
+    {
+      "item": "additions:error_stuff-missingtexture_leggings"
+    },
+    {
+      "item": "additions:error_stuff-missingtexture_boots"
+    },
+    {
+      "item": "additions:error_stuff-texturenotfound_block"
+    },
+    {
+      "item": "additions:error_stuff-texturenotfound_material"
+    },
+    {
+      "item": "additions:error_stuff-texturenotfound_hoe"
+    },
+    {
+      "item": "additions:error_stuff-texturenotfound_shovel"
+    },
+    {
+      "item": "additions:error_stuff-texturenotfound_pickaxe"
+    },
+    {
+      "item": "additions:error_stuff-texturenotfound_axe"
+    },
+    {
+      "item": "additions:error_stuff-texturenotfound_sword"
+    },
+    {
+      "item": "additions:error_stuff-texturenotfound_helmet"
+    },
+    {
+      "item": "additions:error_stuff-texturenotfound_chestplate"
+    },
+    {
+      "item": "additions:error_stuff-texturenotfound_leggings"
+    },
+    {
+      "item": "additions:error_stuff-texturenotfound_boots"
+    },
+    {
+      "item": "additions:error_stuff-glitch_block"
+    },
+    {
+      "item": "additions:error_stuff-glitch_material"
+    },
+    {
+      "item": "additions:error_stuff-glitch_hoe"
+    },
+    {
+      "item": "additions:error_stuff-glitch_shovel"
+    },
+    {
+      "item": "additions:error_stuff-glitch_pickaxe"
+    },
+    {
+      "item": "additions:error_stuff-glitch_axe"
+    },
+    {
+      "item": "additions:error_stuff-glitch_sword"
+    },
+    {
+      "item": "additions:error_stuff-glitch_helmet"
+    },
+    {
+      "item": "additions:error_stuff-glitch_chestplate"
+    },
+    {
+      "item": "additions:error_stuff-glitch_leggings"
+    },
+    {
+      "item": "additions:error_stuff-glitch_boots"
+    }
+  ]
+}

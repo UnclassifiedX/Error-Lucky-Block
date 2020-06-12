@@ -1,0 +1,7 @@
+{
+  "name": "Missing Texture-Boots",
+  "max_stack": 1,
+  "material": "ADDITIONS-ERROR_STUFF-MISSINGTEXTUREARMOR_MATERIAL",
+  "slot": "FEET",
+  "type": "additions:armor"
+}

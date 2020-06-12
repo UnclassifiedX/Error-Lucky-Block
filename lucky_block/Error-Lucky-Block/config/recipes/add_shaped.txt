@@ -1,0 +1,43 @@
+#lucky error
+lucky:error_lucky_sword_____1_____0_____{}_____r,r,s_____r_____lootplusplus:error.luckyerror_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lucky:error_lucky_bow_____1_____0_____{}_____ rs,r s, rs_____r_____lootplusplus:error.luckyerror_material_____0_____{}_____s_____minecraft:string_____0_____{}
+lootplusplus:error.luckyerror_helmet_____1_____0_____{}_____rrr,r r_____r_____lootplusplus:error.luckyerror_material_____0_____{}
+lootplusplus:error.luckyerror_chestplate_____1_____0_____{}_____r r,rrr,rrr_____r_____lootplusplus:error.luckyerror_material_____0_____{}
+lootplusplus:error.luckyerror_leggings_____1_____0_____{}_____rrr,r r,r r_____r_____lootplusplus:error.luckyerror_material_____0_____{}
+lootplusplus:error.luckyerror_boots_____1_____0_____{}_____r r,r r_____r_____lootplusplus:error.luckyerror_material_____0_____{}
+
+#glitch
+lootplusplus:error.glitch_block_____1_____0_____{}_____rrr,rrr,rrr_____r_____lootplusplus:error.glitch_material_____0_____{}
+lootplusplus:error.glitch_sword_____1_____0_____{}_____r,r,s_____r_____lootplusplus:error.glitch_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.glitch_axe_____1_____0_____{}_____rr,rs, s_____r_____lootplusplus:error.glitch_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.glitch_pickaxe_____1_____0_____{}_____rrr, s , s _____r_____lootplusplus:error.glitch_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.glitch_shovel_____1_____0_____{}_____r,s,s_____r_____lootplusplus:error.glitch_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.glitch_hoe_____1_____0_____{}_____rr, s, s_____r_____lootplusplus:error.glitch_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.glitch_helmet_____1_____0_____{}_____rrr,r r_____r_____lootplusplus:error.glitch_material_____0_____{}
+lootplusplus:error.glitch_chestplate_____1_____0_____{}_____r r,rrr,rrr_____r_____lootplusplus:error.glitch_material_____0_____{}
+lootplusplus:error.glitch_leggings_____1_____0_____{}_____rrr,r r,r r_____r_____lootplusplus:error.glitch_material_____0_____{}
+lootplusplus:error.glitch_boots_____1_____0_____{}_____r r,r r_____r_____lootplusplus:error.glitch_material_____0_____{}
+
+#texturenotfound
+lootplusplus:error.texturenotfound_block_____1_____0_____{}_____rrr,rrr,rrr_____r_____lootplusplus:error.texturenotfound_material_____0_____{}
+lootplusplus:error.texturenotfound_sword_____1_____0_____{}_____r,r,s_____r_____lootplusplus:error.texturenotfound_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.texturenotfound_axe_____1_____0_____{}_____rr,rs, s_____r_____lootplusplus:error.texturenotfound_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.texturenotfound_pickaxe_____1_____0_____{}_____rrr, s , s _____r_____lootplusplus:error.texturenotfound_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.texturenotfound_shovel_____1_____0_____{}_____r,s,s_____r_____lootplusplus:error.texturenotfound_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.texturenotfound_hoe_____1_____0_____{}_____rr, s, s_____r_____lootplusplus:error.texturenotfound_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.texturenotfound_helmet_____1_____0_____{}_____rrr,r r_____r_____lootplusplus:error.texturenotfound_material_____0_____{}
+lootplusplus:error.texturenotfound_chestplate_____1_____0_____{}_____r r,rrr,rrr_____r_____lootplusplus:error.texturenotfound_material_____0_____{}
+lootplusplus:error.texturenotfound_leggings_____1_____0_____{}_____rrr,r r,r r_____r_____lootplusplus:error.texturenotfound_material_____0_____{}
+lootplusplus:error.texturenotfound_boots_____1_____0_____{}_____r r,r r_____r_____lootplusplus:error.texturenotfound_material_____0_____{}
+
+#missingtexture
+lootplusplus:error.missingtexture_block_____1_____0_____{}_____rrr,rrr,rrr_____r_____lootplusplus:error.missingtexture_material_____0_____{}
+lootplusplus:error.missingtexture_sword_____1_____0_____{}_____r,r,s_____r_____lootplusplus:error.missingtexture_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.missingtexture_axe_____1_____0_____{}_____rr,rs, s_____r_____lootplusplus:error.missingtexture_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.missingtexture_pickaxe_____1_____0_____{}_____rrr, s , s _____r_____lootplusplus:error.missingtexture_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.missingtexture_shovel_____1_____0_____{}_____r,s,s_____r_____lootplusplus:error.missingtexture_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.missingtexture_hoe_____1_____0_____{}_____rr, s, s_____r_____lootplusplus:error.missingtexture_material_____0_____{}_____s_____"stickWood"_____0_____{}
+lootplusplus:error.missingtexture_helmet_____1_____0_____{}_____rrr,r r_____r_____lootplusplus:error.missingtexture_material_____0_____{}
+lootplusplus:error.missingtexture_chestplate_____1_____0_____{}_____r r,rrr,rrr_____r_____lootplusplus:error.missingtexture_material_____0_____{}
+lootplusplus:error.missingtexture_leggings_____1_____0_____{}_____rrr,r r,r r_____r_____lootplusplus:error.missingtexture_material_____0_____{}
+lootplusplus:error.missingtexture_boots_____1_____0_____{}_____r r,r r_____r_____lootplusplus:error.missingtexture_material_____0_____{}

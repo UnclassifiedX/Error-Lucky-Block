@@ -1,0 +1,10 @@
+{
+  "enchantability": 50,
+  "harvest_level": 3,
+  "base_tool_durability": 31103,
+  "efficiency": 10.0,
+  "base_attack_damage": 8.0,
+  "repair_item": "additions:error_stuff-texturenotfound_material",
+  "repair_meta": 32767,
+  "type": "tool"
+}

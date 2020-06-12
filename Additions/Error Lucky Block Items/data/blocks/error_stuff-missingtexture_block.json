@@ -1,0 +1,11 @@
+{
+  "item_block": {
+    "name": "missing texture-Block",
+    "type": "additions:block_simple"
+  },
+  "name": "missing texture-Block",
+  "material": "minecraft:stone",
+  "hardness": 1.0,
+  "harvest_tool": "pickaxe",
+  "type": "additions:simple"
+}

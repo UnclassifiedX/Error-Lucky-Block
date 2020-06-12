@@ -1,0 +1,6 @@
+{
+  "name": "Texture not found-Pickaxe",
+  "max_stack": 1,
+  "material": "ADDITIONS-ERROR_STUFF-TEXTURENOTFOUNDTOOL_MATERIAL",
+  "type": "additions:pickaxe"
+}

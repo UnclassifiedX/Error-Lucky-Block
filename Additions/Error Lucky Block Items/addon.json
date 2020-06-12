@@ -1,0 +1,7 @@
+{
+  "id": "error_stuff",
+  "name": "Error Lucky Block Items",
+  "author": "BlazingOne",
+  "logo_item": "lucky:lucky_block_error",
+  "required_mods": "lucky"
+}

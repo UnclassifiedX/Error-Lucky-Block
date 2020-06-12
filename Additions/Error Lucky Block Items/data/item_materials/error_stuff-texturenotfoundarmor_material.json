@@ -1,0 +1,13 @@
+{
+  "enchantability": 50,
+  "base_armor_durability": 37,
+  "toughness": 2.5,
+  "helmet_armor": 4,
+  "chestplate_armor": 9,
+  "leggings_armor": 7,
+  "boots_armor": 4,
+  "equip_sound": "minecraft:item.armor.equip_generic",
+  "repair_item": "additions:error_stuff-texturenotfound_material",
+  "repair_meta": 32767,
+  "type": "armor"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Texture not found-Shovel",
+  "max_stack": 1,
+  "material": "ADDITIONS-ERROR_STUFF-TEXTURENOTFOUNDTOOL_MATERIAL",
+  "type": "additions:shovel"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "additions:items/error_stuff-glitch_hoe-layer0"
+  }
+}

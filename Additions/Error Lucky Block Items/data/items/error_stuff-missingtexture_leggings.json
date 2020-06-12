@@ -1,0 +1,7 @@
+{
+  "name": "Missing Texture-Leggings",
+  "max_stack": 1,
+  "material": "ADDITIONS-ERROR_STUFF-MISSINGTEXTUREARMOR_MATERIAL",
+  "slot": "LEGS",
+  "type": "additions:armor"
+}

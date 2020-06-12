@@ -1,0 +1,7 @@
+{
+  "name": "Texture not found-Helmet",
+  "max_stack": 1,
+  "material": "ADDITIONS-ERROR_STUFF-TEXTURENOTFOUNDARMOR_MATERIAL",
+  "slot": "HEAD",
+  "type": "additions:armor"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Missing Texture-Chestplate",
+  "max_stack": 1,
+  "material": "ADDITIONS-ERROR_STUFF-MISSINGTEXTUREARMOR_MATERIAL",
+  "slot": "CHEST",
+  "type": "additions:armor"
+}

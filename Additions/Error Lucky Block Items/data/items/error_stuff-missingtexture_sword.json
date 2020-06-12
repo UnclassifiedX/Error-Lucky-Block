@@ -1,0 +1,6 @@
+{
+  "name": "Missing Texture-Sword",
+  "max_stack": 1,
+  "material": "ADDITIONS-ERROR_STUFF-MISSINGTEXTURETOOL_MATERIAL",
+  "type": "additions:sword"
+}

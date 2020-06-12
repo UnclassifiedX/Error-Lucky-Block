@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "lucky:items/error_lucky_sword"
+    }
+}

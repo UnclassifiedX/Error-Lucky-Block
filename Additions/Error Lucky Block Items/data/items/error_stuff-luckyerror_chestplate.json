@@ -1,0 +1,7 @@
+{
+  "name": "§cLucky Error Chestplate",
+  "max_stack": 1,
+  "material": "ADDITIONS-ERROR_STUFF-LUCKYERROR_MATERIAL",
+  "slot": "CHEST",
+  "type": "additions:armor"
+}
