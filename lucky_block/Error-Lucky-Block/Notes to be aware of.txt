@@ -1,1 +1,0 @@
-- The error lucky sword, bow and potion are laggy when in hand, this was also an issue in the original. For Me: Find the issue (most likely the animation) and fix it. (the block however doesn't cause lag issues)

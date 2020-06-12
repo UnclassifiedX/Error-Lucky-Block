@@ -1,1 +1,1 @@
-- Error lucky sword, bow and potion lag when held, not the lucky block though. Issue also found within the original.
+- Error lucky sword, bow and potion lag when held, not the lucky block though. Issue also found within the original addon.
