@@ -1,4 +1,0 @@
-block_id=lucky_block_error
-sword_id=error_lucky_sword
-bow_id=error_lucky_bow
-potion_id=error_lucky_potion

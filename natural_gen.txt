@@ -1,4 +1,0 @@
->surface
-/ house + lucky block
-group(type=structure,ID=house;type=block,ID=lucky:lucky_block_error,tileEntity=(Luck=20),posX=#bPosX+1,posZ=#bPosZ-1)@chance=600
-type=structure,ID=BookOfRariy@chance=50

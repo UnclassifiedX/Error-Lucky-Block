@@ -1,4 +1,0 @@
-/ house
-ID=house,file=house.schematic
-/ Book of Raity
-ID=BookOfRariy,file=BookOfRarity.schematic

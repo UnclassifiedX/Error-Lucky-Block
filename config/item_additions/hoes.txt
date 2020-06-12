@@ -1,3 +1,0 @@
-error.texturenotfound_hoe_____Texture not found-Hoe_____lootplusplus:error.texturenotfound_material
-error.missingtexture_hoe_____Missing Texture-Hoe_____lootplusplus:error.missingtexture_material
-error.glitch_hoe_____§k§0-§1-§2-§3-§4-§5-§6-§7-§8-§9-§a-§b-§c-§d-§e-§r-Hoe_____lootplusplus:error.glitch_material

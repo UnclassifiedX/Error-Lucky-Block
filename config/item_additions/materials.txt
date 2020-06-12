@@ -1,4 +1,0 @@
-lootplusplus:error.texturenotfound_material_____-1_____3_____31103_____10.0_____8.0_____50_____32_____4-9-7-4
-lootplusplus:error.missingtexture_material_____-1_____1_____1010_____7.0_____6.0_____30_____8_____2-4-3-2
-lootplusplus:error.glitch_material_____-1_____2_____777_____4.0_____10.0_____40_____16_____3-6-5-4
-lootplusplus:error.luckyerror_material_____-1_____4_____2000_____2.0_____2.0_____20_____8_____3-8-6-3

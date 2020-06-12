@@ -1,3 +1,0 @@
-error.texturenotfound_block_____Texture not found-Block_____rock_____false_____false_____1_____2_____pickaxe_____-1_____0.0_____0.6_____0_____0_____-1
-error.missingtexture_block_____missing texture-Block_____rock_____false_____false_____1_____2_____pickaxe_____-1_____0.0_____0.6_____0_____0_____-1
-error.glitch_block_____§0-§1-§2-§3-§4-§5-§6-§7-§8-§9-§a-§b-§c-§d-§e-§r-Block_____rock_____false_____false_____1_____2_____pickaxe_____-1_____0.0_____0.6_____0_____0_____-1
