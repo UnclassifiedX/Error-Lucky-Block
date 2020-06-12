@@ -1,5 +1,5 @@
 # Error-Lucky-Block
-The Source code for the lucky block addond "error lucky block"
+The Source code for the lucky block addon "error lucky block"
 
 Will be ported over to minecraft version 1.12.2
 
